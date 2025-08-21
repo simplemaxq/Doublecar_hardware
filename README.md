@@ -21,7 +21,7 @@
 
 ## 全套开源
 
-整车的硬件均已开源，Github链接：[2025双车硬件，包括TC264主板，8701驱动，ai8051U电调](https://github.com/espressif/esp-moonlight)  
+整车的硬件均已开源，Github链接：[2025双车硬件，包括TC264主板，8701驱动，ai8051U电调](https://github.com/simplemaxq/Doublecar_hardware)  
 如果这个开源工程对你有帮助，欢迎帮助github点个star
 
 ## 注意事项
